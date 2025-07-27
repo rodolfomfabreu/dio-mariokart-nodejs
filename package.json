@@ -1,0 +1,21 @@
+{
+  "name": "dio-mariokart-nodejs",
+  "version": "1.0.0",
+  "description": "Simulador de MarioKart em NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodolfomfabreu/dio-mariokart-nodejs.git"
+  },
+  "author": "rodolfomfabreu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodolfomfabreu/dio-mariokart-nodejs/issues"
+  },
+  "homepage": "https://github.com/rodolfomfabreu/dio-mariokart-nodejs#readme"
+}
