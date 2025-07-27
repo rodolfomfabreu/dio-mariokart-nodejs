@@ -15,9 +15,10 @@
 
 ## 📑 Sumário | Table of Contents
 - [Sobre o Projeto | About](#sobre-o-projeto--about)
+- [Objetivo e Personagens | Objective & Characters](#objetivo-e-personagens--objective--characters)
 - [Funcionalidades | Features](#funcionalidades--features)
 - [Tecnologias | Technologies](#tecnologias--technologies)
-- [Estrutura | Structure]
+- [Estrutura | Structure](#estrutura--structure)
 - [Configuração e Execução | Setup & Run](#configuração-e-execução--setup--run)
 - [Rotas e Telas | Routes & Screens](#rotas-e-telas--routes--screens)
 - [Autor | Author](#autor--author)
@@ -44,6 +45,8 @@
     <td>
         <b>Objetivo:</b>
         <p>Mario Kart é uma série de jogos de corrida desenvolvida e publicada pela Nintendo. Nosso desafio será criar uma lógica de um jogo de vídeo game para simular corridas de Mario Kart, levando em consideração as regras e mecânicas abaixo.</p>
+        <b>Objective:</b>
+        <p>Mario Kart is a racing game series developed and published by Nintendo. Our challenge is to create the logic of a video game to simulate Mario Kart races, taking into account the rules and mechanics below.</p>
     </td>
 </tr>
 </table>
